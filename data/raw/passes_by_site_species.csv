@@ -1,0 +1,101 @@
+site,common_name,n_passes
+1,Barbastelle,10
+1,Bechstein's bat,2
+1,Brown long-eared bat,19
+1,Common noctule,7
+1,Common pipistrelle,54
+1,Daubenton's bat,1
+1,Grey long-eared bat,4
+1,Leisler's bat,15
+1,Nathusius' pipistrelle,1
+1,Natterer's bat,5
+1,Soprano pipistrelle,133
+2,Barbastelle,1
+2,Bechstein's bat,1
+2,Common pipistrelle,1
+2,Leisler's bat,1
+2,Nathusius' pipistrelle,1
+2,Natterer's bat,1
+2,Soprano pipistrelle,2
+3,Barbastelle,25
+3,Bechstein's bat,2
+3,Brown long-eared bat,3
+3,Common noctule,10
+3,Common pipistrelle,319
+3,Daubenton's bat,5
+3,Grey long-eared bat,4
+3,Leisler's bat,49
+3,Nathusius' pipistrelle,1
+3,Natterer's bat,2
+3,Serotine bat,1
+3,Soprano pipistrelle,23
+4,Bechstein's bat,1
+4,Common noctule,1
+4,Common pipistrelle,12
+4,Daubenton's bat,1
+4,Leisler's bat,22
+4,Nathusius' pipistrelle,1
+4,Soprano pipistrelle,4
+5,Common noctule,4
+5,Common pipistrelle,55
+5,Leisler's bat,39
+5,Nathusius' pipistrelle,2
+5,Soprano pipistrelle,73
+6,Common noctule,1
+6,Common pipistrelle,1
+6,Leisler's bat,2
+6,Lesser horseshoe bat,1
+6,Soprano pipistrelle,4
+8,Barbastelle,3
+8,Brown long-eared bat,1
+8,Common noctule,1
+8,Common pipistrelle,42
+8,Grey long-eared bat,1
+8,Leisler's bat,4
+8,Nathusius' pipistrelle,1
+8,Natterer's bat,1
+8,Soprano pipistrelle,12
+A,Barbastelle,4
+A,Bechstein's bat,1
+A,Common noctule,10
+A,Common pipistrelle,30
+A,Grey long-eared bat,2
+A,Leisler's bat,124
+A,Nathusius' pipistrelle,7
+A,Serotine bat,2
+A,Soprano pipistrelle,9
+B,Barbastelle,1
+B,Bechstein's bat,1
+B,Common noctule,12
+B,Common pipistrelle,1059
+B,Daubenton's bat,1
+B,Grey long-eared bat,1
+B,Leisler's bat,53
+B,Lesser horseshoe bat,14
+B,Nathusius' pipistrelle,5
+B,Natterer's bat,1
+B,Soprano pipistrelle,120
+B,Whiskered bat,1
+C,Barbastelle,13
+C,Common noctule,114
+C,Common pipistrelle,163
+C,Greater horseshoe bat,1
+C,Leisler's bat,343
+C,Nathusius' pipistrelle,64
+C,Serotine bat,1
+C,Soprano pipistrelle,2
+P2,Barbastelle,11
+P2,Common noctule,92
+P2,Common pipistrelle,240
+P2,Daubenton's bat,8
+P2,Leisler's bat,107
+P2,Nathusius' pipistrelle,23
+P2,Soprano pipistrelle,373
+P3,Barbastelle,3
+P3,Brown long-eared bat,1
+P3,Common noctule,15
+P3,Common pipistrelle,89
+P3,Daubenton's bat,39
+P3,Leisler's bat,14
+P3,Nathusius' pipistrelle,14
+P3,Soprano pipistrelle,195
